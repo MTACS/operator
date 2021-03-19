@@ -1,0 +1,9 @@
+Package: com.mtac.operator
+Name: Operator
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Custom carrier names, bars and datatypes
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
